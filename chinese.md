@@ -31,7 +31,7 @@
      * 外包团队建设，组建5人外包团队，完成淘宝相关移动端产品和H5页面的兼容适配测试工作。
      * 组织并进行内部员工培训和技术交流
   * 主要技术
-     * Java: Spring, JUnit, PowerMock...
+     * Java: Spring, JUnit, iBatis, PowerMock...
      * Python
 * EMC/VMware 测试经理 2010/09 - 2013/12
   * 带领Mozy（EMC的公有云存储产品）在上海的测试团队,负责产品功能测试,性能、压力、系统测试以及相关自动化测试工具开发。
